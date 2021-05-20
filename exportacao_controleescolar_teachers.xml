@@ -691,19 +691,19 @@
      <Subject name="Língua Estrang. Moderna I-Espanhol (Opc.) - 162"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     
+     <Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="14:00 - 14:50">
-     
+     <Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -22661,19 +22661,19 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
