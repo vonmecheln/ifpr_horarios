@@ -1948,14 +1948,6 @@
 	<Separator> </Separator>
 </Year>
 <Year>
-	<Name>EECM_2020</Name>
-	<Number_of_Students>40</Number_of_Students>
-	<Comments>Especialização em Ensino de Ciências e Matemática</Comments>
-	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
-	<Number_of_Categories>0</Number_of_Categories>
-	<Separator> </Separator>
-</Year>
-<Year>
 	<Name>EIN2018-4ANO</Name>
 	<Number_of_Students>40</Number_of_Students>
 	<Comments>Técnico em Eletromecânica Integrado ao Ensino Médio</Comments>
@@ -1999,14 +1991,6 @@
 	<Name>ELE2021-1SEM</Name>
 	<Number_of_Students>40</Number_of_Students>
 	<Comments>Técnico em Eletrotécnica Subsequente</Comments>
-	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
-	<Number_of_Categories>0</Number_of_Categories>
-	<Separator> </Separator>
-</Year>
-<Year>
-	<Name>ELM2020</Name>
-	<Number_of_Students>40</Number_of_Students>
-	<Comments>Técnico em Eletromecânica Subsequente</Comments>
 	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
 	<Number_of_Categories>0</Number_of_Categories>
 	<Separator> </Separator>
@@ -6368,13 +6352,6 @@
 	<Comments>Superior de Licenciatura em Ciências Biológicas</Comments>
 </Room>
 <Room>
-	<Name>Sala Virtual EECM_2020</Name>
-	<Building></Building>
-	<Capacity>40</Capacity>
-	<Virtual>false</Virtual>
-	<Comments>Especialização em Ensino de Ciências e Matemática</Comments>
-</Room>
-<Room>
 	<Name>Sala Virtual EIN2018-4ANO</Name>
 	<Building></Building>
 	<Capacity>40</Capacity>
@@ -6415,13 +6392,6 @@
 	<Capacity>40</Capacity>
 	<Virtual>false</Virtual>
 	<Comments>Técnico em Eletrotécnica Subsequente</Comments>
-</Room>
-<Room>
-	<Name>Sala Virtual ELM2020</Name>
-	<Building></Building>
-	<Capacity>40</Capacity>
-	<Virtual>false</Virtual>
-	<Comments>Técnico em Eletromecânica Subsequente</Comments>
 </Room>
 <Room>
 	<Name>Sala Virtual ELM2021</Name>
@@ -25605,14 +25575,6 @@
 </ConstraintStudentsSetHomeRooms>
 <ConstraintStudentsSetHomeRooms>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Students>EECM_2020</Students>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Sala Virtual EECM_2020</Preferred_Room>
-	<Active>false</Active>
-	<Comments>Especialização em Ensino de Ciências e Matemática</Comments>
-</ConstraintStudentsSetHomeRooms>
-<ConstraintStudentsSetHomeRooms>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Students>EIN2018-4ANO</Students>
 	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
 	<Preferred_Room>Sala Virtual EIN2018-4ANO</Preferred_Room>
@@ -25658,14 +25620,6 @@
 	<Preferred_Room>Sala Virtual ELE2021-1SEM</Preferred_Room>
 	<Active>false</Active>
 	<Comments>Técnico em Eletrotécnica Subsequente</Comments>
-</ConstraintStudentsSetHomeRooms>
-<ConstraintStudentsSetHomeRooms>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Students>ELM2020</Students>
-	<Number_of_Preferred_Rooms>1</Number_of_Preferred_Rooms>
-	<Preferred_Room>Sala Virtual ELM2020</Preferred_Room>
-	<Active>false</Active>
-	<Comments>Técnico em Eletromecânica Subsequente</Comments>
 </ConstraintStudentsSetHomeRooms>
 <ConstraintStudentsSetHomeRooms>
 	<Weight_Percentage>100</Weight_Percentage>
