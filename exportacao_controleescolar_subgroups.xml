@@ -1026,13 +1026,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Meteorologia e Bioclimatologia na Agropecuária - 631"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Artes II - 614"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Meteorologia e Bioclimatologia na Agropecuária - 631"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Meteorologia e Bioclimatologia na Agropecuária - 631"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -1200,7 +1200,7 @@
      <Teacher name="Elias Franco"></Teacher><Subject name="Sistemas Agroflorestais - 629"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Artes II - 614"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -1441,10 +1441,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 465"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física I - 457"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 465"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física I - 457"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (16:45 - 19:00)">
      
@@ -1467,10 +1467,10 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química I - 461"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia I - 463"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química I - 461"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia I - 463"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -1523,22 +1523,22 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia I - 463"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 465"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia I - 463"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 465"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química I - 461"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química I - 461"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -1588,10 +1588,10 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física I - 457"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física I - 457"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -3451,10 +3451,10 @@
      <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia 3 - 204"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química 3 - 211"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia 3 - 206"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia 3 - 206"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química 3 - 211"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -4074,7 +4074,7 @@
      <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História 1 - 131"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia 1 - 124"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Estrangeira Moderna - Espanhol - 1540"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -4180,7 +4180,7 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Estrangeira Moderna - Espanhol - 1540"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia 1 - 126"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 1 - 142"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
@@ -4236,7 +4236,7 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia 1 - 126"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia 1 - 124"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Lingua Portuguesa 1 - 138"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
@@ -6096,7 +6096,7 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Reginaldo Naves dos Reis"></Teacher><Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
@@ -6117,7 +6117,7 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     
+     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="15:55 - 16:45">
      
