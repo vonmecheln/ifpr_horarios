@@ -1,4 +1,4 @@
-﻿Geração iniciada em: 19/05/2021 21:08
+﻿Geração iniciada em: 20/05/2021 11:33
 
 A semente aleatória no início da geração é:
 	s10=0, s11=1, s12=2,
