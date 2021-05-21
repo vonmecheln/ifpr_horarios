@@ -2079,10 +2079,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="PCCC 7 - Temas transversais - 1549"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="PCCC 7 - Temas transversais - 1549"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -2182,19 +2182,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos cordados II - 483"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Bioestatística - 487"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos cordados II - 483"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Bioestatística - 487"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos cordados II - 483"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos cordados II - 483"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -2238,19 +2238,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -2294,19 +2294,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Bioestatística - 487"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="PCCC 7 - Temas transversais - 1549"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Bioestatística - 487"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="PCCC 7 - Temas transversais - 1549"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -2417,10 +2417,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Educação ambiental e desenvolvimento sustentável - 1354"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos invertebrados II - 77"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Educação ambiental e desenvolvimento sustentável - 1354"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos invertebrados II - 77"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -2464,19 +2464,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos invertebrados II - 77"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Educação ambiental e desenvolvimento sustentável - 1354"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos invertebrados II - 77"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Educação ambiental e desenvolvimento sustentável - 1354"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Ecologia de populações e comunidades - 1183"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Educação ambiental e desenvolvimento sustentável - 1354"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Ecologia de populações e comunidades - 1183"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Educação ambiental e desenvolvimento sustentável - 1354"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -2520,10 +2520,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Ecologia de populações e comunidades - 1183"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Estágio curricular supervisionado em ciências I - 84"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Ecologia de populações e comunidades - 1183"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -2585,10 +2585,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="PCCC 5  - Teoria e prática para o ensino de ciências e biologia - 1182"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="PCCC 5  - Teoria e prática para o ensino de ciências e biologia - 1182"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Estágio curricular supervisionado em ciências I - 84"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -2632,19 +2632,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Educação ambiental e desenvolvimento sustentável - 1354"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Optativa 1 Energia Nuclear e Radiação - Aplicações da Tecnologia Nuclear - 1179"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Educação ambiental e desenvolvimento sustentável - 1354"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Optativa 1 Energia Nuclear e Radiação - Aplicações da Tecnologia Nuclear - 1179"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Optativa 1 - 1179"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Optativa 1 - 1179"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -2746,19 +2746,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Libras - 494"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Eliane Brunetto Pertile"></Teacher><Subject name="Diversidade e educação inclusiva - 657"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Libras - 494"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Eliane Brunetto Pertile"></Teacher><Subject name="Diversidade e educação inclusiva - 657"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Eliane Brunetto Pertile"></Teacher><Subject name="Diversidade e educação inclusiva - 657"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Libras - 494"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Eliane Brunetto Pertile"></Teacher><Subject name="Diversidade e educação inclusiva - 657"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Libras - 494"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -2867,10 +2867,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Sistemática vegetal I - 660"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Didática geral - 76"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Sistemática vegetal I - 660"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Didática geral - 76"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -2914,19 +2914,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Psicologia da educação - 72"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="PCCC 3 - Modalidades da educação e inclusão escolar - 655"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Psicologia da educação - 72"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="PCCC 3 - Modalidades da educação e inclusão escolar - 655"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="PCCC 3 - Modalidades da educação e inclusão escolar - 655"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Psicologia da educação - 72"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="PCCC 3 - Modalidades da educação e inclusão escolar - 655"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Psicologia da educação - 72"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -2970,10 +2970,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Didática geral - 76"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Sistemática vegetal I - 660"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Didática geral - 76"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Sistemática vegetal I - 660"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      

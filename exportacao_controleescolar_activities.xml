@@ -554,7 +554,7 @@
 </Activity>
 <Activity>
 	<Id>100001631</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
@@ -579,31 +579,31 @@
 <Activity>
 	<Id>100001629</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>100001628</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>100001630</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>200001630</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>100001621</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -615,7 +615,7 @@
 <Activity>
 	<Id>100001820</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -627,61 +627,61 @@
 <Activity>
 	<Id>200001622</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>21:50 - 22:40</Hour>
-	<Room></Room>
-</Activity>
-<Activity>
-	<Id>100001625</Id>
-	<Day>Segunda-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
-	<Id>200001625</Id>
-	<Day>Sexta-Feira</Day>
+	<Id>100001625</Id>
+	<Day>Terça-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
-	<Id>100001626</Id>
+	<Id>200001625</Id>
 	<Day>Terça-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>100001626</Id>
+	<Day>Segunda-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>200001626</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>100001813</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>19:50 - 20:40</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>21:50 - 22:40</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>100001620</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>200001620</Id>
-	<Day>Quarta-Feira</Day>
+	<Day>Sexta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>100001616</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>100001617</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -699,25 +699,25 @@
 <Activity>
 	<Id>100001627</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>100001619</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>200001619</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>100001618</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
