@@ -1441,10 +1441,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física I - 457"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física I - 457"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 19:00)">
      
@@ -1553,10 +1553,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     
+     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="15:55 - 16:45">
-     
+     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (16:45 - 19:00)">
      
@@ -1588,10 +1588,10 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física I - 457"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física I - 457"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
      

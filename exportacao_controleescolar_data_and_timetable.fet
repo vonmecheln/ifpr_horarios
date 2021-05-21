@@ -6350,7 +6350,7 @@
 	<First_Activity_Tag>Matutino</First_Activity_Tag>
 	<Second_Activity_Tag>Noturno</Second_Activity_Tag>
 	<MinGaps>7</MinGaps>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </ConstraintTeachersMinGapsBetweenOrderedPairOfActivityTags>
 <ConstraintTeachersMinRestingHours>
@@ -21890,14 +21890,6 @@
 	<Active>false</Active>
 	<Comments></Comments>
 </ConstraintTeacherMinGapsBetweenOrderedPairOfActivityTags>
-<ConstraintTeachersMinGapsBetweenOrderedPairOfActivityTags>
-	<Weight_Percentage>100</Weight_Percentage>
-	<First_Activity_Tag>Matutino</First_Activity_Tag>
-	<Second_Activity_Tag>Noturno</Second_Activity_Tag>
-	<MinGaps>7</MinGaps>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTeachersMinGapsBetweenOrderedPairOfActivityTags>
 <ConstraintTwoActivitiesOrdered>
 	<Weight_Percentage>100</Weight_Percentage>
 	<First_Activity_Id>100001559</First_Activity_Id>
@@ -22570,8 +22562,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001379</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -22669,8 +22661,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001645</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
