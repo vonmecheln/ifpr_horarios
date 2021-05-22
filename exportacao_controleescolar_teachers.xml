@@ -9526,7 +9526,7 @@
      
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Artes 1 - 121"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -10658,7 +10658,7 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Subject name="Artes 1 - 121"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
      
@@ -13582,7 +13582,7 @@
      <Subject name="Filosofia IV - 193"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Filosofia 1 - 124"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -13700,7 +13700,7 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Filosofia 1 - 124"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      <Subject name="Filosofia 4 - 223"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2018-4ANO"></Students>
