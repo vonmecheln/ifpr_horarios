@@ -7777,10 +7777,10 @@
   <Teacher name="Fábio Fernandes da Silva">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Tecnologia dos Mater iais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Tecnologia dos Mater iais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -8001,10 +8001,10 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Tecnologia dos Mater iais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Tecnologia dos Mater iais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -8453,10 +8453,10 @@
   <Teacher name="Guilherme Masquetti Pelz">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -8568,7 +8568,7 @@
      
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Eletr icidade e Medidas Elétr icas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
+     <Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -8677,10 +8677,10 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Eletr icidade e Medidas Elétr icas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Eletr icidade e Medidas Elétr icas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -9497,7 +9497,7 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
      
@@ -9538,7 +9538,7 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -10552,7 +10552,7 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -10608,7 +10608,7 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -13015,19 +13015,19 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Matemática 4 - 234"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2018-4ANO"></Students>
+     <Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -13086,7 +13086,7 @@
      <Subject name="Matemática 4 - 234"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2018-4ANO"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Matemática 4 - 234"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2018-4ANO"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -13703,7 +13703,7 @@
      <Subject name="Filosofia 1 - 124"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Subject name="Filosofia 4 - 223"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2018-4ANO"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
      <Subject name="Filosofia II - 1232"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
@@ -13762,7 +13762,7 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Filosofia 4 - 223"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2018-4ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -19099,19 +19099,19 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Máquinas e Acionamentos - 1575"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Máquinas e Acionamentos - 1575"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Máquinas e Acionamentos - 1575"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Máquinas e Acionamentos - 1575"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
      

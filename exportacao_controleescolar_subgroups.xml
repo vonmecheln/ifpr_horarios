@@ -3225,7 +3225,7 @@
      <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Lingua Estrangeira Moderna 3 - Inglês - 230"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 4 - 234"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia 4 - 223"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
      <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia 4 - 238"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
@@ -3284,7 +3284,7 @@
      <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 4 - 234"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia 4 - 223"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 4 - 234"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3551,19 +3551,19 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Wylliam Salviano Gongora"></Teacher><Subject name="Máquinas e Acionamentos - 1575"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Wylliam Salviano Gongora"></Teacher><Subject name="Máquinas e Acionamentos - 1575"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Wylliam Salviano Gongora"></Teacher><Subject name="Máquinas e Acionamentos - 1575"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Wylliam Salviano Gongora"></Teacher><Subject name="Máquinas e Acionamentos - 1575"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
      <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História 3 - 207"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
@@ -4059,10 +4059,10 @@
   <Subgroup name="EIN2021-1ANO Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Tecnologia dos Mater iais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Tecnologia dos Mater iais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -4174,7 +4174,7 @@
      <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia 1 - 146"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Eletr icidade e Medidas Elétr icas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -4283,10 +4283,10 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Eletr icidade e Medidas Elétr icas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Tecnologia dos Mater iais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Eletr icidade e Medidas Elétr icas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Tecnologia dos Mater iais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -6117,7 +6117,7 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
      
@@ -6158,7 +6158,7 @@
      <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Keyla Christina Almeida Portela"></Teacher><Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6214,7 +6214,7 @@
      <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Laboratório de Banco de Dados - 1238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Teacher name="Keyla Christina Almeida Portela"></Teacher><Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
