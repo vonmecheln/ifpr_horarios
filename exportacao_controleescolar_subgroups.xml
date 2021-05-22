@@ -1194,13 +1194,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Sistemas Agroflorestais - 629"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Produção Animal I - 628"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Elias Franco"></Teacher><Subject name="Sistemas Agroflorestais - 629"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Teacher name="Elias Franco"></Teacher><Subject name="Sistemas Agroflorestais - 629"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -1218,7 +1218,7 @@
      <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="Cultura e Cinema Nacional II - 1192"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Artes II - 614"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 19:00)">
      
@@ -1256,7 +1256,7 @@
      <Teacher name="Elias Franco"></Teacher><Subject name="Construções e Instalações Rurais - 630"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Produção Animal I - 628"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Artes II - 614"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      

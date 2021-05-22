@@ -279,7 +279,7 @@
 <Activity>
 	<Id>100001656</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Hour>10:15 - 11:05</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -296,14 +296,14 @@
 </Activity>
 <Activity>
 	<Id>100001464</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>15:55 - 16:45</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>200001464</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -356,8 +356,8 @@
 </Activity>
 <Activity>
 	<Id>200001666</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room></Room>
 </Activity>
 <Activity>

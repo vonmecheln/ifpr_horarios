@@ -6940,13 +6940,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Sistemas Agroflorestais - 629"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      <Subject name="Sistemas Agroflorestais - 629"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Sistemas Agroflorestais - 629"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -9668,7 +9668,7 @@
      
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Subject name="Artes II - 614"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 19:00)">
      
@@ -9706,7 +9706,7 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Artes II - 614"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -17080,7 +17080,7 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Subject name="Produção Animal I - 628"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
      
@@ -17142,7 +17142,7 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Produção Animal I - 628"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
