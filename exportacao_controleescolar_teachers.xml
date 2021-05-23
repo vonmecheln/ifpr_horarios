@@ -7281,10 +7281,10 @@
      <Subject name="Sociologia IV - 192"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Sociologia 4 - 238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2018-4ANO"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Sociologia I - 1071"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     <Subject name="Sociologia 4 - 238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2018-4ANO"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -7299,7 +7299,7 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     
+     <Subject name="Sociologia I - 1071"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="15:55 - 16:45">
      
@@ -8803,10 +8803,10 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -8980,10 +8980,10 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     
+     <Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="14:00 - 14:50">
-     
+     <Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -13194,7 +13194,7 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="História I - 1224"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      
@@ -13368,7 +13368,7 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="História I - 1224"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -13650,7 +13650,7 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -13700,13 +13700,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Filosofia II - 1232"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
-    </Hour>
-    <Hour name="10:15 - 11:05">
      
     </Hour>
-    <Hour name="11:05 - 11:55">
+    <Hour name="10:15 - 11:05">
      <Subject name="Filosofia 4 - 223"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2018-4ANO"></Students>
+    </Hour>
+    <Hour name="11:05 - 11:55">
+     <Subject name="Filosofia II - 1232"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -13724,7 +13724,7 @@
      
     </Hour>
     <Hour name="15:55 - 16:45">
-     
+     <Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="Intervalo (16:45 - 19:00)">
      
@@ -15052,13 +15052,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Subject name="Projeto Integrador II - 1239"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
      <Subject name="Projeto Integrador II - 1239"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Projeto Integrador II - 1239"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
