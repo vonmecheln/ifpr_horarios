@@ -5138,10 +5138,10 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -5309,10 +5309,10 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -16292,10 +16292,10 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -16463,10 +16463,10 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
