@@ -1502,8 +1502,8 @@
 </Activity>
 <Activity>
 	<Id>100001410</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -1568,8 +1568,8 @@
 </Activity>
 <Activity>
 	<Id>100001436</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
