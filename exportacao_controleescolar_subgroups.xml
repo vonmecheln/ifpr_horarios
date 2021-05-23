@@ -3225,10 +3225,10 @@
      <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Lingua Estrangeira Moderna 3 - Inglês - 230"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia 4 - 223"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia 4 - 238"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia 4 - 238"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia 4 - 223"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6264,13 +6264,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto Integrador II - 1239"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia II - 1232"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto Integrador II - 1239"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia II - 1232"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto Integrador II - 1239"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6434,13 +6434,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="História I - 1224"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6552,7 +6552,7 @@
      <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Lógica de programação - 1075"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6608,25 +6608,25 @@
      <Teacher name="Adan Santos Martens"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="História I - 1224"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 1071"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 1071"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 19:00)">
      
