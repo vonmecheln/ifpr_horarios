@@ -42,10 +42,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Sanidade animal na agroecologia - 430"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Sanidade animal na agroecologia - 430"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -166,7 +166,7 @@
      <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Forragicultura e pastagens - 1660"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas Anuais de base ecológica - 423"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Forragicultura e pastagens - 1660"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -266,357 +266,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Sanidade animal na agroecologia - 430"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Cesar Gomes de Freitas"></Teacher><Subject name="Sociologia Rural e Cooperativismo - 853"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Sanidade animal na agroecologia - 430"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Cesar Gomes de Freitas"></Teacher><Subject name="Sociologia Rural e Cooperativismo - 853"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Forragicultura e pastagens - 1660"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas Anuais de base ecológica - 423"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
      <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Forragicultura e pastagens - 1660"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-   </Day>
-   <Day name="Sábado">
-    <Hour name="07:30 - 08:20">
-     
-    </Hour>
-    <Hour name="08:20 - 09:10">
-     
-    </Hour>
-    <Hour name="Intervalo (09:10 - 09:25)">
-     
-    </Hour>
-    <Hour name="09:25 - 10:15">
-     
-    </Hour>
-    <Hour name="10:15 - 11:05">
-     
-    </Hour>
-    <Hour name="11:05 - 11:55">
-     
-    </Hour>
-    <Hour name="Intervalo (11:55 - 13:10)">
-     
-    </Hour>
-    <Hour name="13:10 - 14:00">
-     
-    </Hour>
-    <Hour name="14:00 - 14:50">
-     
-    </Hour>
-    <Hour name="Intervalo (14:50 - 15:05)">
-     
-    </Hour>
-    <Hour name="15:05 - 15:55">
-     
-    </Hour>
-    <Hour name="15:55 - 16:45">
-     
-    </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
-     
-    </Hour>
-    <Hour name="19:00 - 19:50">
-     
-    </Hour>
-    <Hour name="19:50 - 20:40">
-     
-    </Hour>
-    <Hour name="Intervalo (20:40 - 21:00)">
-     
-    </Hour>
-    <Hour name="21:00 - 21:50">
-     
-    </Hour>
-    <Hour name="21:50 - 22:40">
-     
-    </Hour>
-   </Day>
-  </Subgroup>
-  <Subgroup name="AGE 2018 Grupo Automático Subgrupo Automático">
-   <Day name="Segunda-Feira">
-    <Hour name="07:30 - 08:20">
-     
-    </Hour>
-    <Hour name="08:20 - 09:10">
-     
-    </Hour>
-    <Hour name="Intervalo (09:10 - 09:25)">
-     
-    </Hour>
-    <Hour name="09:25 - 10:15">
-     
-    </Hour>
-    <Hour name="10:15 - 11:05">
-     
-    </Hour>
-    <Hour name="11:05 - 11:55">
-     
-    </Hour>
-    <Hour name="Intervalo (11:55 - 13:10)">
-     
-    </Hour>
-    <Hour name="13:10 - 14:00">
-     
-    </Hour>
-    <Hour name="14:00 - 14:50">
-     
-    </Hour>
-    <Hour name="Intervalo (14:50 - 15:05)">
-     
-    </Hour>
-    <Hour name="15:05 - 15:55">
-     
-    </Hour>
-    <Hour name="15:55 - 16:45">
-     
-    </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
-     
-    </Hour>
-    <Hour name="19:00 - 19:50">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Projetos - trabalhos de conclusão de curso - 1173"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="19:50 - 20:40">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Projetos - trabalhos de conclusão de curso - 1173"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="Intervalo (20:40 - 21:00)">
-     
-    </Hour>
-    <Hour name="21:00 - 21:50">
-     <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Bovinocultura de leite na agroecologia - 535"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="21:50 - 22:40">
-     <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Bovinocultura de leite na agroecologia - 535"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-   </Day>
-   <Day name="Terça-Feira">
-    <Hour name="07:30 - 08:20">
-     
-    </Hour>
-    <Hour name="08:20 - 09:10">
-     
-    </Hour>
-    <Hour name="Intervalo (09:10 - 09:25)">
-     
-    </Hour>
-    <Hour name="09:25 - 10:15">
-     
-    </Hour>
-    <Hour name="10:15 - 11:05">
-     
-    </Hour>
-    <Hour name="11:05 - 11:55">
-     
-    </Hour>
-    <Hour name="Intervalo (11:55 - 13:10)">
-     
-    </Hour>
-    <Hour name="13:10 - 14:00">
-     
-    </Hour>
-    <Hour name="14:00 - 14:50">
-     
-    </Hour>
-    <Hour name="Intervalo (14:50 - 15:05)">
-     
-    </Hour>
-    <Hour name="15:05 - 15:55">
-     
-    </Hour>
-    <Hour name="15:55 - 16:45">
-     
-    </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
-     
-    </Hour>
-    <Hour name="19:00 - 19:50">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Avicultura e Suinocultura Agroecológica - 1314"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="19:50 - 20:40">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Avicultura e Suinocultura Agroecológica - 1314"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="Intervalo (20:40 - 21:00)">
-     
-    </Hour>
-    <Hour name="21:00 - 21:50">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Avicultura e Suinocultura Agroecológica - 1314"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="21:50 - 22:40">
-     <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Bovinocultura de leite na agroecologia - 535"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-   </Day>
-   <Day name="Quarta-Feira">
-    <Hour name="07:30 - 08:20">
-     
-    </Hour>
-    <Hour name="08:20 - 09:10">
-     
-    </Hour>
-    <Hour name="Intervalo (09:10 - 09:25)">
-     
-    </Hour>
-    <Hour name="09:25 - 10:15">
-     
-    </Hour>
-    <Hour name="10:15 - 11:05">
-     
-    </Hour>
-    <Hour name="11:05 - 11:55">
-     
-    </Hour>
-    <Hour name="Intervalo (11:55 - 13:10)">
-     
-    </Hour>
-    <Hour name="13:10 - 14:00">
-     
-    </Hour>
-    <Hour name="14:00 - 14:50">
-     
-    </Hour>
-    <Hour name="Intervalo (14:50 - 15:05)">
-     
-    </Hour>
-    <Hour name="15:05 - 15:55">
-     
-    </Hour>
-    <Hour name="15:55 - 16:45">
-     
-    </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
-     
-    </Hour>
-    <Hour name="19:00 - 19:50">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Olericultura de base ecológica - 531"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="19:50 - 20:40">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Olericultura de base ecológica - 531"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="Intervalo (20:40 - 21:00)">
-     
-    </Hour>
-    <Hour name="21:00 - 21:50">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Economia e Administração da produção - 534"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="21:50 - 22:40">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Economia e Administração da produção - 534"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-   </Day>
-   <Day name="Quinta-Feira">
-    <Hour name="07:30 - 08:20">
-     
-    </Hour>
-    <Hour name="08:20 - 09:10">
-     
-    </Hour>
-    <Hour name="Intervalo (09:10 - 09:25)">
-     
-    </Hour>
-    <Hour name="09:25 - 10:15">
-     
-    </Hour>
-    <Hour name="10:15 - 11:05">
-     
-    </Hour>
-    <Hour name="11:05 - 11:55">
-     
-    </Hour>
-    <Hour name="Intervalo (11:55 - 13:10)">
-     
-    </Hour>
-    <Hour name="13:10 - 14:00">
-     
-    </Hour>
-    <Hour name="14:00 - 14:50">
-     
-    </Hour>
-    <Hour name="Intervalo (14:50 - 15:05)">
-     
-    </Hour>
-    <Hour name="15:05 - 15:55">
-     
-    </Hour>
-    <Hour name="15:55 - 16:45">
-     
-    </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
-     
-    </Hour>
-    <Hour name="19:00 - 19:50">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Fruticultura de base ecológica - 533"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="19:50 - 20:40">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Fruticultura de base ecológica - 533"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="Intervalo (20:40 - 21:00)">
-     
-    </Hour>
-    <Hour name="21:00 - 21:50">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Criação agroecológica de ovinos e caprinos - 532"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="21:50 - 22:40">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Criação agroecológica de ovinos e caprinos - 532"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-   </Day>
-   <Day name="Sexta-Feira">
-    <Hour name="07:30 - 08:20">
-     
-    </Hour>
-    <Hour name="08:20 - 09:10">
-     
-    </Hour>
-    <Hour name="Intervalo (09:10 - 09:25)">
-     
-    </Hour>
-    <Hour name="09:25 - 10:15">
-     
-    </Hour>
-    <Hour name="10:15 - 11:05">
-     
-    </Hour>
-    <Hour name="11:05 - 11:55">
-     
-    </Hour>
-    <Hour name="Intervalo (11:55 - 13:10)">
-     
-    </Hour>
-    <Hour name="13:10 - 14:00">
-     
-    </Hour>
-    <Hour name="14:00 - 14:50">
-     
-    </Hour>
-    <Hour name="Intervalo (14:50 - 15:05)">
-     
-    </Hour>
-    <Hour name="15:05 - 15:55">
-     
-    </Hour>
-    <Hour name="15:55 - 16:45">
-     
-    </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
-     
-    </Hour>
-    <Hour name="19:00 - 19:50">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Tecnologia dos Alimentos de Origem Vegetal e Animal - 1313"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="19:50 - 20:40">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Tecnologia dos Alimentos de Origem Vegetal e Animal - 1313"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="Intervalo (20:40 - 21:00)">
-     
-    </Hour>
-    <Hour name="21:00 - 21:50">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Sistemas Agroflorestais - 536"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
-    </Hour>
-    <Hour name="21:50 - 22:40">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Sistemas Agroflorestais - 536"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -744,10 +406,10 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Agroindustrialização de Produtos de Origem Vegetal e Animal (APOVA) - 1094"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Horticultura - 1090"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Agroindustrialização de Produtos de Origem Vegetal e Animal (APOVA) - 1094"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Horticultura - 1090"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
      <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Produção Animal II - 1093"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
@@ -803,10 +465,10 @@
      <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Orientação de estágio supervisionado - 1097"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Horticultura - 1090"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Elias Franco"></Teacher><Subject name="Agroindustrialização de Produtos de Origem Vegetal e Animal (APOVA) - 1094"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Horticultura - 1090"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Elias Franco"></Teacher><Subject name="Agroindustrialização de Produtos de Origem Vegetal e Animal (APOVA) - 1094"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -1370,7 +1032,7 @@
      <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia I - 464"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -1538,7 +1200,7 @@
      <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química I - 461"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -1741,10 +1403,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Suinocultura - 1461"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Suinocultura - 1461"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -1965,10 +1627,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Suinocultura - 1461"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Suinocultura - 1461"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -3054,13 +2716,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Lingua Portuguesa 4 - 232"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Manutenção Industrial e Gestão da Produção - 1592"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Lingua Portuguesa 4 - 232"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Grazielli Bueno"></Teacher><Subject name="Projeto Integrador - 1593"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Lingua Portuguesa 4 - 232"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3172,7 +2834,7 @@
      <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Processos de Fabr icação II I - 1590"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Manutenção Indust r ial e Gestão da Produção - 1592"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Grazielli Bueno"></Teacher><Subject name="Projeto Integrador - 1593"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3225,10 +2887,10 @@
      <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Lingua Estrangeira Moderna 3 - Inglês - 230"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia 4 - 223"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia 4 - 238"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia 4 - 238"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia 4 - 223"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3383,10 +3045,10 @@
   <Subgroup name="EIN2019-3ANO Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Grazielli Bueno"></Teacher><Subject name="Projetos e Instalações Elétricas - 200"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Wylliam Salviano Gongora"></Teacher><Subject name="Elementos de Automação - 198"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Grazielli Bueno"></Teacher><Subject name="Projetos e Instalações Elétricas - 200"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Wylliam Salviano Gongora"></Teacher><Subject name="Elementos de Automação - 198"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -3504,13 +3166,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Franciele Fernandes Baliero"></Teacher><Subject name="Educação Física 3 - 203"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Grazielli Bueno"></Teacher><Subject name="Projetos e Instalações Elétricas - 200"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Wylliam Salviano Gongora"></Teacher><Subject name="Elementos de Automação - 198"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Grazielli Bueno"></Teacher><Subject name="Projetos e Instalações Elétricas - 200"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Wylliam Salviano Gongora"></Teacher><Subject name="Elementos de Automação - 198"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Franciele Fernandes Baliero"></Teacher><Subject name="Educação Física 3 - 203"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -4774,19 +4436,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Comunicação e Expressão - 598"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Comunicação e Expressão - 598"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Comunicação e Expressão - 598"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Comunicação e Expressão - 598"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -4830,19 +4492,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física Aplicada - 597"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física Aplicada - 597/144"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física Aplicada - 597"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física Aplicada - 597/144"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -4886,19 +4548,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595/134"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595/134"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -4942,19 +4604,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Instrumentos de Medidas Elétricas - 1138"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Instrumentos de Medidas Elétricas - 1138"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Instrumentos de Medidas Elétricas - 139/1138"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Instrumentos de Medidas Elétricas - 139/1138"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -4998,10 +4660,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595/134"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595/134"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -5112,19 +4774,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Processos de Fabricação I - 149"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Processos de Fabricação I - 149"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -5168,19 +4830,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física Aplicada - 597/144"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física Aplicada - 597/144"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Informática Instrumental - 153"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Informática Instrumental - 153"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -5224,19 +4886,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595/134"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595/134"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -5280,19 +4942,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Processos de Fabricação I - 149"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Processos de Fabricação I - 149"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Informática Instrumental - 153"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Instrumentos de Medidas Elétricas - 139/1138"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Informática Instrumental - 153"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Instrumentos de Medidas Elétricas - 139/1138"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -5336,19 +4998,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595/134"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595/134"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física Aplicada - 144"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física Aplicada - 144"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -5917,7 +5579,7 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Arte III - 1448"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Arte III - 1448"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
     </Hour>
     <Hour name="08:20 - 09:10">
      <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia III - 174"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
@@ -6152,10 +5814,10 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Reginaldo Naves dos Reis"></Teacher><Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Reginaldo Naves dos Reis"></Teacher><Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
      <Teacher name="Keyla Christina Almeida Portela"></Teacher><Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
@@ -6264,13 +5926,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto Integrador II - 1239"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia II - 1232"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto Integrador II - 1239"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia II - 1232"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto Integrador II - 1239"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6323,10 +5985,10 @@
      <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Estrangeira Moderna - Espanhol - 1254"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Reginaldo Naves dos Reis"></Teacher><Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Reginaldo Naves dos Reis"></Teacher><Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6434,13 +6096,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="História I - 1224"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6552,7 +6214,7 @@
      <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Lógica de programação - 1075"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6608,25 +6270,25 @@
      <Teacher name="Adan Santos Martens"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="História I - 1224"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 1071"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 1071"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 19:00)">
      
@@ -8210,19 +7872,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Testes, Verificação e Validação de Sistemas - 723"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Testes, Verificação e Validação de Sistemas - 723"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -8322,19 +7984,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Testes, Verificação e Validação de Sistemas - 723"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Testes, Verificação e Validação de Sistemas - 723"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
