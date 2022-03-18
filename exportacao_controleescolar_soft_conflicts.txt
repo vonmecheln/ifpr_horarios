@@ -1,15 +1,14 @@
 ﻿Conflitos leves de exportacao_controleescolar.fet
 Gerado com FET 6.3.0 em --/--/---- --:--
 
-Número de restrições leves quebradas: 18
-Total de conflitos leves: 3.71
+Número de restrições leves quebradas: 17
+Total de conflitos leves: 3.21
 
 Conflitos leves em ordem decrescente:
 
 Restrição "tempo de início preferido" não atendida para atividade com id=100002729 (2 - Tiago Amaral Silva - Educação Física II - 615 - Matutino,Vespertino,Assis Chateaubriand - AGO2021), aumenta total de conflitos em 0.99
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Terça-Feira, horário 10:15 - 11:05. Isso aumenta em 0.5 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Terça-Feira, horário 11:05 - 11:55. Isso aumenta em 0.5 o total de conflitos
-Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Quarta-Feira, horário 10:15 - 11:05. Isso aumenta em 0.5 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Quinta-Feira, horário 11:05 - 11:55. Isso aumenta em 0.5 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Terça-Feira, horário 07:30 - 08:20. Isso aumenta em 0.1 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Terça-Feira, horário 08:20 - 09:10. Isso aumenta em 0.1 o total de conflitos
