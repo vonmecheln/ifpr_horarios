@@ -3,19 +3,19 @@
   <Subgroup name="AGO2020 Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Língua Portuguesa e Literatura III - 1081"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Língua Portuguesa e Literatura III - 1081"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas II - 1091"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas II - 1091"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
      <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="História II - 1089"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
@@ -71,10 +71,10 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Mecanização Agrícola, Irrigação e Drenagem - 1096"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Mecanização Agrícola, Irrigação e Drenagem - 1096"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
      <Teacher name="Elias Franco"></Teacher><Subject name="Sociologia e extensão rural - 1087"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
@@ -92,10 +92,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física III - 1084"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física III - 1084"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -130,13 +130,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Orientação de estágio supervisionado - 1097"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia III - 1088"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas II - 1091"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -180,10 +180,10 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Biologia III - 1083"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Biologia III - 1083"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -248,31 +248,31 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Sociologia e extensão rural - 1087"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
+     <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química III - 1085"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Química"></Room>
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química III - 1085"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Química"></Room>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química III - 1085"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Química"></Room>
+     <Teacher name="Elias Franco"></Teacher><Subject name="Sociologia e extensão rural - 1087"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia III - 1088"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
+     <Teacher name="Fabio Antônio da Silva"></Teacher><Subject name="Filosofia III - 1088"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Língua Portuguesa e Literatura III - 1081"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física III - 1082"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Educação Física / Sala 4 B2"></Room>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física III - 1082"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Educação Física / Sala 4 B2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -359,10 +359,10 @@
   <Subgroup name="AGO2021 Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas I - 627"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 15-2"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas I - 627"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 15-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -418,7 +418,7 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia II - 624"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 15-2"></Room>
+     <Teacher name="Fabio Antônio da Silva"></Teacher><Subject name="Filosofia II - 624"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 15-2"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
      <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="História I - 626"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 15-2"></Room>
@@ -439,10 +439,10 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física II - 617"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física II - 617"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -477,10 +477,10 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Meteorologia e Bioclimatologia na Agropecuária - 631"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 15-2"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Meteorologia e Bioclimatologia na Agropecuária - 631"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 15-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -595,19 +595,19 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física II - 615"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Educação Física / Sala 4 B2"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física II - 615"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Educação Física / Sala 4 B2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas I - 627"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 15-2"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia II - 624"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 15-2"></Room>
+     <Teacher name="Fabio Antônio da Silva"></Teacher><Subject name="Filosofia II - 624"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 15-2"></Room>
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -730,25 +730,25 @@
      <Teacher name="Paula Magalhães Souza Deccache"></Teacher><Subject name="Biologia I - 459"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Língua Portuguesa e Literatura I - 455"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Informática instrumental e aplicada - 468"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Informática instrumental e aplicada - 468"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica C"></Room>
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Informática instrumental e aplicada - 468"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Informática instrumental e aplicada - 468"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica C"></Room>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Desenho técnico e topografia - 469"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Desenho técnico e topografia - 469"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -795,16 +795,16 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Zootecnia Geral - 467"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Zootecnia Geral - 467"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia I - 464"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
+     <Teacher name="Fabio Antônio da Silva"></Teacher><Subject name="Filosofia I - 464"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
     </Hour>
     <Hour name="15:55 - 16:45">
      <Teacher name="Luiz Carlos do Couto Junior"></Teacher><Subject name="Cultura e Cinema Nacional I - 831"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
@@ -842,13 +842,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 465"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
     </Hour>
     <Hour name="10:15 - 11:05">
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 465"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -892,7 +892,7 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 465"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
      
@@ -901,7 +901,7 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 465"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      
@@ -951,10 +951,10 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Língua Portuguesa e Literatura I - 455"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Língua Portuguesa e Literatura I - 455"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -966,7 +966,7 @@
      <Teacher name="Carla Melli Tambarussi"></Teacher><Subject name="Matemática I - 462"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia I - 464"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
+     <Teacher name="Fabio Antônio da Silva"></Teacher><Subject name="Filosofia I - 464"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -1113,10 +1113,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Planejamento Agropecuário - 2215"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Planejamento Agropecuário - 2215"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -1181,10 +1181,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Bovinocultura de Corte - 2208"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Bovinocultura de Corte - 2208"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -1231,19 +1231,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Mecanização Agrícola - 2217"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Mecanização Agrícola - 2217"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas II - 2221"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas II - 2221"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -1299,10 +1299,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Bovinocultura de Corte - 2208"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Bovinocultura de Corte - 2208"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -1349,10 +1349,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas II - 2221"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas II - 2221"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -1528,10 +1528,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Suinocultura - 1461"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Suinocultura - 1461"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 14-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -1596,10 +1596,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Desenho técnico e instalações agropecuárias - 1456"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Desenho técnico e instalações agropecuárias - 1456"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -1825,19 +1825,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Libras - 494"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
+     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Libras - 494"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Libras - 494"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
+     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Libras - 494"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Paula Magalhães Souza Deccache"></Teacher><Subject name="Biologia Celular - 62"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Paula Magalhães Souza Deccache"></Teacher><Subject name="Biologia Celular - 62"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -1943,10 +1943,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Paula Magalhães Souza Deccache"></Teacher><Subject name="Biologia Celular - 62"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Paula Magalhães Souza Deccache"></Teacher><Subject name="Biologia Celular - 62"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -2181,19 +2181,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Paula Magalhães Souza Deccache"></Teacher><Subject name="Zoologia dos cordados II - 483"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Paula Magalhães Souza Deccache"></Teacher><Subject name="Zoologia dos cordados II - 483"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -2249,10 +2249,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -2969,7 +2969,7 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia 4 - 223"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
+     <Teacher name="Fabio Antônio da Silva"></Teacher><Subject name="Filosofia 4 - 223"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
      <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia 4 - 238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
@@ -3087,10 +3087,10 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Processos de Fabricação 3 - 1590"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Usinagem B4"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Processos de Fabricação 3 - 1590"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Usinagem B4"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Processos de Fabricação 3 - 1590"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Usinagem B4"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Processos de Fabricação 3 - 1590"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Usinagem B4"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -3099,10 +3099,10 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Máquinas Térmicas e de Fluxo - 218"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
+     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Máquinas Térmicas e de Fluxo - 218"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Máquinas Térmicas e de Fluxo - 218"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
+     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Máquinas Térmicas e de Fluxo - 218"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3266,10 +3266,10 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Processos de Fabricação 2 - 1573"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Usinagem B4"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Processos de Fabricação 2 - 1573"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Usinagem B4"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Processos de Fabricação 2 - 1573"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Usinagem B4"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Processos de Fabricação 2 - 1573"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Usinagem B4"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -3328,7 +3328,7 @@
      <Teacher name="Guilherme Franca Fusco"></Teacher><Subject name="Educação Física 3 - 203"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Educação Física / Sala 4 B2"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia 3 - 204"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Fabio Antônio da Silva"></Teacher><Subject name="Filosofia 3 - 204"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -3340,7 +3340,7 @@
      <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia 3 - 206"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Everaldo Lorensetti 2"></Teacher><Subject name="Sociologia 3 - 212"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia 3 - 212"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3384,10 +3384,10 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Projetos e Instalações Elétricas - 200"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Projetos e Instalações Elétricas - 200"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Eletrônica e Instalações Elétricas"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Projetos e Instalações Elétricas - 200"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Projetos e Instalações Elétricas - 200"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Eletrônica e Instalações Elétricas"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -3452,7 +3452,7 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Segurança do Trabalho - 197"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Segurança do Trabalho - 197"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
@@ -3566,19 +3566,19 @@
      <Teacher name="Luiz Carlos do Couto Junior"></Teacher><Subject name="Artes 2 - 166"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Metrologia - 1550"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Metrologia B4"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Processos de Fabricação 1 - 1552"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Usinagem B4"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Processos de Fabricação 1 - 1552"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Usinagem B4"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Paula Magalhães Souza Deccache"></Teacher><Subject name="Biologia 2 - 168"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3740,16 +3740,16 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletrônica - 1554"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletrônica - 1554"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletrônica - 1554"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="História 2 - 178"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
@@ -3799,7 +3799,7 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia 2 - 173"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
+     <Teacher name="Fabio Antônio da Silva"></Teacher><Subject name="Filosofia 2 - 173"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
      <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia 2 - 189"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
@@ -3811,10 +3811,10 @@
      <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física 2 - 175"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Cálculo Mecânico - 154"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Cálculo Mecânico - 154"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Cálculo Mecânico - 154"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Cálculo Mecânico - 154"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3928,13 +3928,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3981,7 +3981,7 @@
      <Teacher name="Luiz Carlos do Couto Junior"></Teacher><Subject name="Artes 1 - 121"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia 1 - 124"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
+     <Teacher name="Fabio Antônio da Silva"></Teacher><Subject name="Filosofia 1 - 124"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -3990,10 +3990,10 @@
      <Teacher name="Michelli Cristina Galli"></Teacher><Subject name="Lingua Estrangeira Moderna - Espanhol - 1540"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Tecnologia dos Materiais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Tecnologia dos Materiais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Tecnologia dos Materiais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Tecnologia dos Materiais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -4046,13 +4046,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 1529"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 1529"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 1529"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -4284,13 +4284,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 1529"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 1529"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 1529"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -4337,7 +4337,7 @@
      <Teacher name="Luiz Carlos do Couto Junior"></Teacher><Subject name="Artes 1 - 121"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia 1 - 124"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
+     <Teacher name="Fabio Antônio da Silva"></Teacher><Subject name="Filosofia 1 - 124"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -4346,10 +4346,10 @@
      <Teacher name="Michelli Cristina Galli"></Teacher><Subject name="Lingua Estrangeira Moderna - Espanhol - 1540"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Tecnologia dos Materiais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Tecnologia dos Materiais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Tecnologia dos Materiais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Tecnologia dos Materiais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -4402,13 +4402,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -4859,10 +4859,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Instalações elétricas - 2230"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
+     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Instalações elétricas - 2230"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Eletrônica e Instalações Elétricas"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Instalações elétricas - 2230"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
+     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Instalações elétricas - 2230"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Eletrônica e Instalações Elétricas"></Room>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -4918,10 +4918,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Instalações elétricas - 2230"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
+     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Instalações elétricas - 2230"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Eletrônica e Instalações Elétricas"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Instalações elétricas - 2230"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 6-2"></Room>
+     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Instalações elétricas - 2230"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Eletrônica e Instalações Elétricas"></Room>
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -5029,19 +5029,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 2226"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 2226"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -5156,10 +5156,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Informática Instrumental - 596"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
+     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Informática Instrumental - 596"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica C"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Informática Instrumental - 596"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
+     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Informática Instrumental - 596"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica C"></Room>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -5206,19 +5206,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 2226"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 2226"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -5385,19 +5385,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 2226"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 2226"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -5512,10 +5512,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Informática Instrumental - 596"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
+     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Informática Instrumental - 596"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica C"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Informática Instrumental - 596"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
+     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Informática Instrumental - 596"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica C"></Room>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -5562,19 +5562,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 2226"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 2226"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -5741,19 +5741,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -5800,19 +5800,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -5986,10 +5986,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Elementos de Automação - 112"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Elementos de Automação - 112"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Elementos de Automação - 112"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Elementos de Automação - 112"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -6097,19 +6097,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -6156,19 +6156,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Resistência dos Materiais - 109"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Máquinas Térmicas de Fluxo - 111"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -6342,10 +6342,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Elementos de Automação - 112"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Elementos de Automação - 112"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Elementos de Automação - 112"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Elementos de Automação - 112"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Materiais e Hidráulica B4"></Room>
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -6689,10 +6689,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Segurança do Trabalho - 345"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Vânio Berlin de Souza"></Teacher><Subject name="Segurança do Trabalho - 345"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 8-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -6818,10 +6818,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
+     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
+     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -6868,10 +6868,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -6995,10 +6995,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
+     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
+     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -7054,10 +7054,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -7174,10 +7174,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
+     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
+     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -7233,10 +7233,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -7351,10 +7351,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
+     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 9-2"></Room>
+     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 7-2"></Room>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -7401,10 +7401,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Mauro Buss"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
+     <Teacher name="Novo PSS Mecânica"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Desenho Técnico / Sala 5-2"></Room>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -7606,13 +7606,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Cesar Gomes de Freitas"></Teacher><Subject name="Fundamentos da Gestão - 2249"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Cesar Gomes de Freitas"></Teacher><Subject name="Fundamentos da Gestão de Pessoas - 2250"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Cesar Gomes de Freitas"></Teacher><Subject name="Fundamentos da Logística - 2251"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -7877,19 +7877,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Língua Portuguesa para Estrangeiros - 2252"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Língua Portuguesa para Estrangeiros - 2252"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Cultura e Identidade Brasileira - 2253"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Cultura e Identidade Brasileira - 2253"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -7936,19 +7936,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Cultura e Identidade Brasileira - 2253"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Cultura e Identidade Brasileira - 2253"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Língua Portuguesa para Estrangeiros - 2252"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Língua Portuguesa para Estrangeiros - 2252"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -8191,16 +8191,16 @@
   <Subgroup name="IIN2019 Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Projeto Final de Curso - 181"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
+     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Projeto Final de Curso - 181"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Projeto Final de Curso - 181"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
+     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Projeto Final de Curso - 181"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Língua Portuguesa IV - 186"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História III - 194"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
@@ -8309,16 +8309,16 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física IV - 190"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física IV - 190"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Paula Magalhães Souza Deccache"></Teacher><Subject name="Biologia IV - 196"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Projeto e Análise de Sistemas - 182"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
@@ -8430,16 +8430,16 @@
      <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia IV - 192"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia IV - 193"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Língua Portuguesa IV - 186"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Pedro Leites Junior"></Teacher><Subject name="Língua Portuguesa IV - 186"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
      <Teacher name="Carla Melli Tambarussi"></Teacher><Subject name="Matemática IV - 184"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
@@ -8547,19 +8547,19 @@
   <Subgroup name="IIW2020 Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geografia II - 1247"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geografia II - 1247"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Sérgio Augusto Dias Castro"></Teacher><Subject name="Matemática III - 1244"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Sérgio Augusto Dias Castro"></Teacher><Subject name="Matemática III - 1244"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -8606,16 +8606,16 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física III - 1242"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física III - 1242"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia III - 1245"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História III - 2236"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
@@ -8627,10 +8627,10 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Sistemas Gerenciadores de Conteúdo WEB - 1252"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
+     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Sistemas Gerenciadores de Conteúdo WEB - 1252"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Sistemas Gerenciadores de Conteúdo WEB - 1252"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
+     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Sistemas Gerenciadores de Conteúdo WEB - 1252"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -8668,7 +8668,7 @@
      <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia II - 1246"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto Integrador III - 1253"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica C"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -8677,10 +8677,10 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Prototipação de Interfaces e Interação Humano-Computador - 1251"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Prototipação de Interfaces e Interação Humano-Computador - 1251"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Computação Aplicada"></Room>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Prototipação de Interfaces e Interação Humano-Computador - 1251"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Prototipação de Interfaces e Interação Humano-Computador - 1251"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Computação Aplicada"></Room>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -8724,22 +8724,22 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Michelli Cristina Galli"></Teacher><Subject name="Língua Portuguesa e Literatura III - 1240"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Biologia III - 1241"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Michelli Cristina Galli"></Teacher><Subject name="Língua Portuguesa e Literatura III - 1240"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Biologia III - 1241"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Everaldo Lorensetti 3"></Teacher><Subject name="Sociologia II - 1246"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia II - 1246"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Biologia III - 1241"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
+     <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química III - 1243"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Química"></Room>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Biologia III - 1241"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
+     <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química III - 1243"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Química"></Room>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -8783,16 +8783,16 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química III - 1243"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Química"></Room>
+     <Teacher name="Michelli Cristina Galli"></Teacher><Subject name="Língua Portuguesa e Literatura III - 1240"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química III - 1243"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Química"></Room>
+     <Teacher name="Michelli Cristina Galli"></Teacher><Subject name="Língua Portuguesa e Literatura III - 1240"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia III - 1245"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Serviços em nuvem - 1250"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 13-2"></Room>
@@ -8903,10 +8903,10 @@
   <Subgroup name="IIW2021 Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Sérgio Augusto Dias Castro"></Teacher><Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Sérgio Augusto Dias Castro"></Teacher><Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -8915,10 +8915,10 @@
      <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História II - 1234"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geografia I - 1233"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geografia I - 1233"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -8983,10 +8983,10 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Sérgio Augusto Dias Castro"></Teacher><Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Sérgio Augusto Dias Castro"></Teacher><Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -9021,22 +9021,22 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
+     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Computação Aplicada"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
+     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Computação Aplicada"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física II - 1229"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física II - 1229"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia II - 1232"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     <Teacher name="Fabio Antônio da Silva"></Teacher><Subject name="Filosofia II - 1232"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -9080,10 +9080,10 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Laboratório de Banco de Dados - 1238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Laboratório de Banco de Dados - 1238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Laboratório de Banco de Dados - 1238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Laboratório de Banco de Dados - 1238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -9139,19 +9139,19 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Rafael Gil Ferques 3"></Teacher><Subject name="Administração de Sistemas Operacionais e Redes - 1236"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Rafael Gil Ferques 3"></Teacher><Subject name="Administração de Sistemas Operacionais e Redes - 1236"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Rafael Gil Ferques 3"></Teacher><Subject name="Administração de Sistemas Operacionais e Redes - 1236"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Rafael Gil Ferques 3"></Teacher><Subject name="Administração de Sistemas Operacionais e Redes - 1236"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
      <Teacher name="Michelli Cristina Galli"></Teacher><Subject name="Língua Estrangeira Moderna: Espanhol - 2237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 12-2"></Room>
@@ -9259,19 +9259,19 @@
   <Subgroup name="IIW2022A Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Lógica de programação - 1075"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Lógica de programação - 1075"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Lógica de programação - 1075"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Lógica de programação - 1075"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="11:05 - 11:55">
      <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História I - 1224"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 11-2"></Room>
@@ -9327,31 +9327,31 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física I - 1070"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física I - 1070"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Física"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 11-2"></Room>
+     <Teacher name="Fabio Antônio da Silva"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 11-2"></Room>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica C"></Room>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica C"></Room>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Sérgio Augusto Dias Castro"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 11-2"></Room>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Sérgio Augusto Dias Castro"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 11-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -9377,22 +9377,22 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Paula Magalhães Souza Deccache"></Teacher><Subject name="Biologia I - 1073"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Paula Magalhães Souza Deccache"></Teacher><Subject name="Biologia I - 1073"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Biologia"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Novo PSS Filosofia"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 11-2"></Room>
+     <Teacher name="Fabio Antônio da Silva"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 11-2"></Room>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Sérgio Augusto Dias Castro"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 11-2"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Sérgio Augusto Dias Castro"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 11-2"></Room>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -9445,10 +9445,10 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Projeto integrador I - 1078"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica C"></Room>
+     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Projeto integrador I - 1078"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Projeto integrador I - 1078"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica C"></Room>
+     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Projeto integrador I - 1078"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
     </Hour>
     <Hour name="11:05 - 11:55">
      <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 1071"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 11-2"></Room>
@@ -9495,10 +9495,10 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -9615,10 +9615,10 @@
   <Subgroup name="IIW2022B Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Sociologia I - 1071"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Sociologia I - 1071"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Sociologia I - 1071"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Sociologia I - 1071"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -9627,10 +9627,10 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física I - 1070"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física I - 1070"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -9686,28 +9686,28 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Lógica de programação - 1075"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Lógica de programação - 1075"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Carla Melli Tambarussi"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Carla Melli Tambarussi"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Carla Melli Tambarussi"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Carla Melli Tambarussi"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -9742,7 +9742,7 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História I - 1224"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História I - 1224"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="10:15 - 11:05">
      <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
@@ -9792,10 +9792,10 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto integrador I - 1078"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto integrador I - 1078"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -9813,19 +9813,19 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Lingua estrangeira - Inglês - 1225"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Lingua estrangeira - Inglês - 1225"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Lingua estrangeira - Inglês - 1225"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Lingua estrangeira - Inglês - 1225"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -9851,10 +9851,10 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -9872,19 +9872,19 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Ana Paula Sone"></Teacher><Subject name="Química I - 1068"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Ana Paula Sone"></Teacher><Subject name="Química I - 1068"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Ana Paula Sone"></Teacher><Subject name="Química I - 1068"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Ana Paula Sone"></Teacher><Subject name="Química I - 1068"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Michele Fernanda Bortolini"></Teacher><Subject name="Biologia I - 1073"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Michele Fernanda Bortolini"></Teacher><Subject name="Biologia I - 1073"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Michele Fernanda Bortolini"></Teacher><Subject name="Biologia I - 1073"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     <Teacher name="Michele Fernanda Bortolini"></Teacher><Subject name="Biologia I - 1073"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -10013,19 +10013,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Programação Orientada a Objetos - 21"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Programação Orientada a Objetos - 21"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Programação Orientada a Objetos - 21"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Programação Orientada a Objetos - 21"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Engenharia de Software - 20"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Engenharia de Software - 20"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Engenharia de Software - 20"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Engenharia de Software - 20"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -10081,10 +10081,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Telecomunicações e Geoprocessamento - 24"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
+     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Telecomunicações e Geoprocessamento - 24"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Computação Aplicada"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Telecomunicações e Geoprocessamento - 24"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
+     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Telecomunicações e Geoprocessamento - 24"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Computação Aplicada"></Room>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -10131,19 +10131,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Trabalho de Conclusão de Curso - 26"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Trabalho de Conclusão de Curso - 26"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Segurança em Sistemas e Redes - 23"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Segurança em Sistemas e Redes - 23"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Alexandre José Schumacher"></Teacher><Subject name="Gestão de Projetos - 18"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
+     <Teacher name="Alexandre José Schumacher"></Teacher><Subject name="Gestão de Projetos - 18"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Alexandre José Schumacher"></Teacher><Subject name="Gestão de Projetos - 18"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 3-1"></Room>
+     <Teacher name="Alexandre José Schumacher"></Teacher><Subject name="Gestão de Projetos - 18"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -10190,10 +10190,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Tópicos Especiais em Tecnologia da Informação - 25"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Tópicos Especiais em Tecnologia da Informação - 25"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Tópicos Especiais em Tecnologia da Informação - 25"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Tópicos Especiais em Tecnologia da Informação - 25"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -10249,19 +10249,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Programação para Sistemas Embarcados - 22"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Programação para Sistemas Embarcados - 22"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Programação para Sistemas Embarcados - 22"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Programação para Sistemas Embarcados - 22"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Segurança em Sistemas e Redes - 23"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Segurança em Sistemas e Redes - 23"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Segurança em Sistemas e Redes - 23"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica B"></Room>
+     <Teacher name="Marcos Antonio Guido"></Teacher><Subject name="Segurança em Sistemas e Redes - 23"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -10369,10 +10369,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Sérgio Augusto Dias Castro"></Teacher><Subject name="Pensamento Lógico e Modelagem Matemática - 698"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Sérgio Augusto Dias Castro"></Teacher><Subject name="Pensamento Lógico e Modelagem Matemática - 698"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -10428,19 +10428,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Banco de Dados - 701"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Banco de Dados - 701"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Banco de Dados - 701"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Banco de Dados - 701"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -10487,19 +10487,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Banco de Dados - 701"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Banco de Dados - 701"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Banco de Dados - 701"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Banco de Dados - 701"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -10549,16 +10549,16 @@
      
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Empreendedorismo e Inovação - 697"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Algoritmos e Lógica de Programação - 699"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Algoritmos e Lógica de Programação - 699"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -10614,10 +10614,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Algoritmos e Lógica de Programação - 699"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Algoritmos e Lógica de Programação - 699"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -10784,19 +10784,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto Integrador - 720"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto Integrador - 720"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Linguagem de Programação - 718"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Linguagem de Programação - 718"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -10843,19 +10843,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Programação Orientada a Objetos - 719"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Programação Orientada a Objetos - 719"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Programação Orientada a Objetos - 719"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Programação Orientada a Objetos - 719"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -10902,7 +10902,7 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Metodologia Científica e Técnicas de Apresentação de Trabalhos - 715"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
      
@@ -10961,19 +10961,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Linguagem de Programação - 718"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Linguagem de Programação - 718"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Linguagem de Programação - 718"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Linguagem de Programação - 718"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -11258,19 +11258,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Desenvolvimento para Dispositivos Móveis - 722"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-03"></Room>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Desenvolvimento para Dispositivos Móveis - 722"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-03"></Room>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Desenvolvimento para Dispositivos Móveis - 722"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-03"></Room>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Desenvolvimento para Dispositivos Móveis - 722"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-03"></Room>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -11564,10 +11564,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Teacher name="Cassia Cristina Moretto da Silva"></Teacher><Subject name="Direito do Trabalho - 1520"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 15-2"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Teacher name="Cassia Cristina Moretto da Silva"></Teacher><Subject name="Direito do Trabalho - 1520"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 15-2"></Room>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -11970,19 +11970,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Teacher name="Cassia Cristina Moretto da Silva"></Teacher><Subject name="Legislação Aplicada e Direito do Consumidor - 1509"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Teacher name="Cassia Cristina Moretto da Silva"></Teacher><Subject name="Legislação Aplicada e Direito do Consumidor - 1509"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Teacher name="Cassia Cristina Moretto da Silva"></Teacher><Subject name="Legislação Aplicada e Direito do Consumidor - 1509"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Teacher name="Cassia Cristina Moretto da Silva"></Teacher><Subject name="Legislação Aplicada e Direito do Consumidor - 1509"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Sala 16-2"></Room>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -12187,19 +12187,19 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -12246,19 +12246,19 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Linguagem de Programação - 1484"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Linguagem de Programação - 1484"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Linguagem de Programação - 1484"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Linguagem de Programação - 1484"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Assis Chateaubriand"></Activity_Tag><Room name="Laboratório de Informatica A"></Room>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -12305,19 +12305,19 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-01"></Room>
+     <Teacher name="Olavo José Luiz Junior"></Teacher><Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag><Activity_Tag name="Biopark"></Activity_Tag><Room name="BioPark-02"></Room>
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
